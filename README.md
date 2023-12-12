@@ -16,7 +16,7 @@ This repository serves as a collection of my daily/weekly Python projects, helpi
 
 ## Directory Structure
 
-/Python-Learning-Repository
+/PythonLearningProjects
 |-- project_1.py
 |-- project_2.py
 |-- project_3.py
